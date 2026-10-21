@@ -9,6 +9,7 @@ Datos Generales
 
 ## Identidad e Imagen Institucional (TESE y TECNM)
 El diseño y presentación de este proyecto se apega a la paleta gráfica del TESE:
+
 **Azul Institucional logo TECNM**: Color principal (Encabezados y estructura)  
 
 **Rojo Institucional logo TESE**: Acento / Engranaje del logotipo
